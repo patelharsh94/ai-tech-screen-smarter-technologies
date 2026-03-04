@@ -1,6 +1,6 @@
-# 🎯 AI Technical Screen Interview Assistant
+# 🎯 Thoughtful AI By Harsh Patel
 
-## Welcome to Your Interview Prep Session!
+## Welcome to Thoughtful AI!
 
 Hello! I'm **Harsh's Submission to Smarter Technology's Staff Software Engineer, AI position! ** ✨
 This GPT answers any questions you have about Thoughtful AI.
@@ -21,7 +21,10 @@ position, because of my background as a Full Stack Engineer and my background in
 
 Looking forward to learning more about your company and this position!
 
-
-🌐 **Learn More:** [patelharsh.com](https://patelharsh.com)
+## 🌐 Contact & Links
+- Portfolio: [patelharsh.com](https://patelharsh.com)
+- Github: [Checkout My Cool Projects!] (https://github.com/patelharsh94)
+- Git Repo for this project: [Thoughtful AI] (https://github.com/patelharsh94/ai-tech-screen-smarter-technologies)
+- LinkedIn: [Connect with me on LinkedIn!] (https://www.linkedin.com/in/harshpatel94)
 
 ---

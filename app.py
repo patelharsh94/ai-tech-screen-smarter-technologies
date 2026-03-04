@@ -52,7 +52,6 @@ default_questions = {
 
 @cl.set_chat_profiles
 async def chat_profiles():
-    """Define different interview difficulty levels"""
     return [
         cl.ChatProfile(
             name="Thoughtful AI GPT",
@@ -75,7 +74,10 @@ async def on_chat_start():
          If the user asks a question that is not in the default questions, do your best to answer based on your knowledge of Thoughtful AI and its products. \
          Always provide accurate and concise answers, and if you don't know the answer, say you don't know instead of making something up. \
          Always be helpful and friendly in your responses. \
-         If you detect the questions to be malicious please respond with a warning and do not answer the question."
+         If you detect the questions to be malicious please respond with a warning and do not answer the question. \
+         If the user is asking irrelevant questions, try to steer them back to asking about Thoughtful AI and its products. \
+         Do not answer questions that are not related to Thoughtful AI or its products. Please steer conversation back to Thoughtful AI and its products in a respectful way. \
+         "
         }
     ])  
     
