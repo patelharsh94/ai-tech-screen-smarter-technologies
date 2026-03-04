@@ -129,9 +129,9 @@ chainlit run app.py -w --port 8001
 
 ## Contact & Links
 - Portfolio: [patelharsh.com](https://patelharsh.com)
-- Github: [Checkout My Cool Projects!] (https://github.com/patelharsh94)
-- Git Repo for this project: [Thoughtful AI] (https://github.com/patelharsh94/ai-tech-screen-smarter-technologies)
-- LinkedIn: [Connect with me on LinkedIn!] (https://www.linkedin.com/in/harshpatel94)
+- Github: [Checkout My Cool Projects!](https://github.com/patelharsh94)
+- Git Repo for this project: [Thoughtful AI](https://github.com/patelharsh94/ai-tech-screen-smarter-technologies)
+- LinkedIn: [Connect with me on LinkedIn!](https://www.linkedin.com/in/harshpatel94)
 
 ---
 *This is a submission for the Staff Software Engineer, AI position at Smarter Technologies.*
