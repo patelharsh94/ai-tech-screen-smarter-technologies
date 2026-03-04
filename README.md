@@ -117,7 +117,7 @@ source .venv/bin/activate
 ### Port 8000 already in use
 Run on a different port:
 ```bash
-chainlit run app.py -w
+chainlit run app.py -w --port 8001
 ```
 
 ## Tech Stack
